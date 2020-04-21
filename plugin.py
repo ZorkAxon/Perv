@@ -27,7 +27,6 @@
 # POSSIBILITY OF SUCH DAMAGE.
 
 ###
-import self as self
 import random
 import re
 import pickle
